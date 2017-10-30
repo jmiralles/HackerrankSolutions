@@ -1,6 +1,6 @@
 # https://www.hackerrank.com/challenges/s10-weighted-mean/problem
 
-“””” This would be a multiline comment
+“”””
 Task
 Given an array, , of  integers and an array, , representing the respective weights of 's elements, calculate and print the weighted mean of 's elements. Your answer should be rounded to a scale of  decimal place (i.e.,  format).
 
