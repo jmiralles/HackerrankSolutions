@@ -3,8 +3,11 @@
 “”””
 Task
 
-A group of five students enrolls in Statistics immediately after taking a Math aptitude test.
-Each student's Math aptitude test score, x, and Statistics course grade, y, can be expressed as the following list of (x, y) points:
+A group of five students enrolls in Statistics immediately
+ after taking a Math aptitude test.
+Each student's Math aptitude test score, x,
+and Statistics course grade, y, can be expressed
+as the following list of (x, y) points:
 
 1. (95, 85)
 2. (85, 95)
@@ -12,8 +15,10 @@ Each student's Math aptitude test score, x, and Statistics course grade, y, can 
 4. (70, 65)
 5. (60, 70)
 
-If a student scored an 80 on the Math aptitude test, what grade would we expect them to achieve in Statistics?
-Determine the equation of the best-fit line using the least squares method, then compute and print the value of when x = 80.
+If a student scored an 80 on the Math aptitude test,
+what grade would we expect them to achieve in Statistics?
+Determine the equation of the best-fit line using the
+ least squares method, then compute and print the value of when x = 80.
 “””
 
 X = [95, 85, 80, 70, 60]

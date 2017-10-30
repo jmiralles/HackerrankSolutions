@@ -6,9 +6,12 @@ Task
 Andrea has a simple equation:
     Y = a + b1 * f1 + b1 * f2 + ... + bm * fm
 
-for (m + 1) real constants (a, f1, f2, ..., fm). We can say that the value of Y depends on m features.
- Andrea studies this equation for  different feature sets (f1, f2, f3, ..., fm)  and records each respective value of Y.
-  If she has q new feature sets, can you help Andrea find the value of Y for each of the sets?
+for (m + 1) real constants (a, f1, f2, ..., fm).
+We can say that the value of Y depends on m features.
+ Andrea studies this equation for  different feature sets (f1, f2, f3, ..., fm)
+ and records each respective value of Y.
+  If she has q new feature sets, can you help
+  Andrea find the value of Y for each of the sets?
 “””
 
 from sklearn import linear_model

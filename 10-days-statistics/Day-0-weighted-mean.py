@@ -2,7 +2,9 @@
 
 “”””
 Task
-Given an array, , of  integers and an array, , representing the respective weights of 's elements, calculate and print the weighted mean of 's elements. Your answer should be rounded to a scale of  decimal place (i.e.,  format).
+Given an array, X, of N integers and an array, W, representing the respective weights of X's elements,
+ calculate and print the weighted mean of X's elements.
+Your answer should be rounded to a scale of 1 decimal place (i.e., 12.3 format).
 
 “””
 a = raw_input()

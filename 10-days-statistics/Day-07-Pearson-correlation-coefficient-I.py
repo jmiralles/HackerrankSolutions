@@ -4,7 +4,8 @@
 “”””
 Task
 
-Given two -element data sets, X and Y, calculate the value of the Pearson correlation coefficient.
+Given two -element data sets, X and Y,
+calculate the value of the Pearson correlation coefficient.
 
 “””
 

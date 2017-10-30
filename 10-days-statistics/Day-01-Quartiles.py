@@ -3,7 +3,9 @@
 
 “”””
 Task
-Given an array, X, of  integers, calculate the respective first quartile (Q1), second quartile (Q2), and third quartile (Q3). It is guaranteed that Q1, Q2, and Q3 are integers.
+Given an array, X, of  integers, calculate the respective first quartile (Q1),
+ second quartile (Q2), and third quartile (Q3).
+ It is guaranteed that Q1, Q2, and Q3 are integers.
 
 “””
 n_elem = int(raw_input())
